@@ -1,4 +1,4 @@
-# bioinformatique-gc-skew
+# bioinformatique-origine-de-répication
 Analyse bio-informatique de génomes : chercher l'origine de réplication.
 
 
