@@ -1,5 +1,5 @@
 # bioinformatique-origine-de-répication
-Analyse bio-informatique de génomes : chercher l'origine de réplication.
+Analyse bio-informatique de génomes : déterminer l'origine de réplication.
 
 
 # Détermination de l’origine de réplication
